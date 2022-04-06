@@ -2,8 +2,7 @@ from io import StringIO
 from pathlib import Path
 import streamlit as st
 import time
-#from detect import detect
-#from layers.functions import Detect
+from detect import detect
 import os
 import sys
 import argparse
