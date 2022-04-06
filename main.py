@@ -3,6 +3,7 @@ from pathlib import Path
 import streamlit as st
 import time
 #from detect import detect
+from layers.functions import Detect
 import os
 import sys
 import argparse
