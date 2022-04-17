@@ -31,7 +31,7 @@ def get_detection_folder():
 
 if __name__ == '__main__':
 
-    st.title('Trichuris trichiura - YOLOv5 Streamlit App')
+    st.title('17 Apr - Trichuris trichiura - YOLOv5 Streamlit App')
 
     parser = argparse.ArgumentParser()
     parser.add_argument('--weights', nargs='+', type=str,
